@@ -1,7 +1,6 @@
 import { h } from "preact";
 import style from "./style.css";
 import {
-  transactions,
   totalAmount,
   addTransaction,
 	incomes,
